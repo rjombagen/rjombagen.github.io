@@ -1,0 +1,26 @@
+
+#rj{
+	font-size: 30px;
+}
+body{
+	background:linear-gradient(skyblue,blue);
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-attachment: fixed; 
+	text-align: center;
+
+}
+#butt{
+	border-radius: 20px;
+	border:2px solid black;
+	font-size: 25px;
+}
+#console{
+	position: absolute;
+	top:96%;
+	left:0%;
+	border:2px solid blue;
+	background-color: blue;
+	border-radius: 20px;
+	color: #00008b;
+}
