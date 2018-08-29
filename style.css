@@ -3,9 +3,8 @@
 	font-size: 30px;
 }
 body{
-	background:linear-gradient(skyblue,blue);
+	background-image:url("onett.jpg");
 	background-size: cover;
-	background-repeat:no-repeat;
 	background-attachment: fixed; 
 	text-align: center;
 
